@@ -74,12 +74,12 @@ https://platform.openai.com/docs/api-reference/models/list
 
 旧群人已满，请加新群，预计5天就能满。
 
-![微信截图_20230331121138](https://user-images.githubusercontent.com/5563148/229020827-f0588d76-dede-4355-b314-dd384b5fa4b9.png)
+![微信截图_20230331121138]([https://user-images.githubusercontent.com/5563148/229020827-f0588d76-dede-4355-b314-dd384b5fa4b9.png](http://a1.qpic.cn/psc?/V10yuxDY1FAuGy/bqQfVz5yrrGYSXMvKr.cqb3YSoKdE6peZqrromAkiu*EmnDHIPbRuaevFlU6ZBfC5oVytkgBY8ThgFEMFwRuAxDfmRYLx60HU.Gc1Ll.EwQ!/c&ek=1&kp=1&pt=0&bo=NwQhBTcEIQUBFzA!&tl=3&vuin=598235921&tm=1682722800&dis_t=1682724921&dis_k=5785ca91b32aa3596671ad574bc056a6&sce=60-2-2&rf=viewer_4))
 
 
 有热心网友建议我放个打赏码，各位如果真的想表达感谢，小额即可。
 
-![打赏码](https://user-images.githubusercontent.com/5563148/222968018-9def451a-bbce-4a7e-bde6-edecc7ced40f.jpg)
+![打赏码]( http://m.qpic.cn/psc?/V10yuxDY1FAuGy/bqQfVz5yrrGYSXMvKr.cqasZinWkgsj5hWcipzVza6f4RvvgGgY7Jz.2vX1CjuZ8J4RPhtHDlYJkmOZL4FWbAEoXmwixD03GR.3dglKN81s!/b&bo=OAQ4BAAAAAABFzA!&rf=viewer_4&t=5)
 
 最后，我还做了个在微信个人订阅号中通过调用OpenAI最新接口和gpt-3.5-turbo模型实现ChatGPT聊天机器人的功能，已开源，需要的朋友也可以拿去。
 https://github.com/dirk1983/chatgpt-wechat-personal
