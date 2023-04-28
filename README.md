@@ -74,7 +74,7 @@ https://platform.openai.com/docs/api-reference/models/list
 
 旧群人已满，请加新群，预计5天就能满。
 
-![微信截图_20230331121138]([https://user-images.githubusercontent.com/5563148/229020827-f0588d76-dede-4355-b314-dd384b5fa4b9.png](http://a1.qpic.cn/psc?/V10yuxDY1FAuGy/bqQfVz5yrrGYSXMvKr.cqb3YSoKdE6peZqrromAkiu*EmnDHIPbRuaevFlU6ZBfC5oVytkgBY8ThgFEMFwRuAxDfmRYLx60HU.Gc1Ll.EwQ!/c&ek=1&kp=1&pt=0&bo=NwQhBTcEIQUBFzA!&tl=3&vuin=598235921&tm=1682722800&dis_t=1682724921&dis_k=5785ca91b32aa3596671ad574bc056a6&sce=60-2-2&rf=viewer_4))
+![微信截图_20230331121138]( http://m.qpic.cn/psc?/V10yuxDY1FAuGy/bqQfVz5yrrGYSXMvKr.cqb3YSoKdE6peZqrromAkiu*EmnDHIPbRuaevFlU6ZBfC5oVytkgBY8ThgFEMFwRuAxDfmRYLx60HU.Gc1Ll.EwQ!/b&bo=NwQhBTcEIQUBFzA!&rf=viewer_4&t=5)
 
 
 有热心网友建议我放个打赏码，各位如果真的想表达感谢，小额即可。
